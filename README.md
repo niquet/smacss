@@ -9,7 +9,7 @@ Whether it is a side project, a new CSS frontend framework or even a CSS design 
 
 SMACSS stands for **Scalable** and **Modular Architecture** for **CSS**. It is an architecture to help style code and make CSS more readable or as Slobodan Gajic put it in his [Toptal read](https://www.toptal.com/css/smacss-scalable-modular-architecture-css): *"It’s a particular set of CSS architecture guidelines from Jonathan Snook[...]. Now, the architectural approach of SMACSS is a bit different from a CSS framework like Bootstrap or Foundation. Instead, it’s a set of rules, more like a template or guide."* 
 
-<img width="1000" src="https://github.com/niquet/smacss/blob/master/smacss_overview.png">
+<img width="1000" src="https://github.com/niquet/smacss/blob/main/smacss_overview.png">
 
 In SMACSS, styles are divided into 5 parts with each part being represented as either a section in a very long CSS file or as a CSS file of their own. You can think of a style as a category, or guide of what goes into said section / CSS file.
 
