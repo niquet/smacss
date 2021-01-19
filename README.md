@@ -1,11 +1,24 @@
 # Learn About SMACSS And FUN :zap:
 
 It is fairly correct to say, when working on big projects or with groups of developers, code can get messy, hard to read, and even hard to extend after a while.
-These issues play a role in frontend development too. This repository aims to show you a neat way of organizing your css code, hoping that it will make your next project is a lot easier to maintain and extend.
+These issues play a role in frontend development too. This repository aims to show you a neat way of organizing your css code, hoping that it will make your next project easier to maintain and extend.
 
 Whether it is a side project, a new CSS frontend framework or even a CSS design system you're working on, SMACSS and FUN are some great ways of getting structure and meaning into your code.
 
 ## So, What Exactly is SMACSS?
+
+SMACSS stands for **Scalable** and **Modular Architecture** for **CSS**. It is an architecture to help style code and make CSS more readable or as Slobodan Gajic put it in his [Toptal read](https://www.toptal.com/css/smacss-scalable-modular-architecture-css): *"It’s a particular set of CSS architecture guidelines from Jonathan Snook[...]. Now, the architectural approach of SMACSS is a bit different from a CSS framework like Bootstrap or Foundation. Instead, it’s a set of rules, more like a template or guide."* 
+
+### In SMACSS Styles are divided into 5 parts
+
+#### 1. Base 
+
+Base rules / styles define what an element should look like anywhere on the page.These are the styles of the main website elements - defaults if you want - like body, input, button, ul, ol, etc. In 
+
+**Key Takeaways, so far :bulb:**
+```
+:bulb:
+```
 
 ## And, What is FUN?
 
